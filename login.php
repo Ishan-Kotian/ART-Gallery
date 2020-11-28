@@ -83,7 +83,7 @@ $dbname = "online_art_gallery_database_final";
                 }
                  else if($_SESSION['user_type'] == "Customer" | $_SESSION['user_type'] == "Artist" )
                 {
-                    redirect_to("home.php");
+                    redirect_to("index.php");
                 }
 
             } else {

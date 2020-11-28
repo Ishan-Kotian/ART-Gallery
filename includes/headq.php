@@ -49,7 +49,7 @@
                        <ul>
                        <li>
 
-                       <a href="home.php"> Home</a></li> <li>
+                       <a href="index.php"> Home</a></li> <li>
                       </li> <li>
 
                       </li><li>
